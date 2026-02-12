@@ -513,30 +513,6 @@ dist
 - Already configured and ready
 - Connection string in environment variables
 
----
-
-## 📞 Submission Information
-
-**Submitted to:**
-- joydip@primetrade.ai
-- hello@primetrade.ai
-- chetan@primetrade.ai
-- sonika@primetrade.ai
-
-**Email Subject:** `[Your Name] Backend Developer Task`  
-⚠️ **Note:** Assignment document mentions "Frontend Developer Task" in subject line but this is clearly a **Backend Developer** position
-
-**GitHub Repository:** [Your Repository Link Here]
-
-**Deliverables Included:**
-✅ Complete source code (Backend + Frontend)  
-✅ Working APIs with authentication & CRUD  
-✅ Postman collection for API testing  
-✅ Comprehensive README with setup instructions  
-✅ Scalability notes  
-✅ Test credentials for evaluation  
-
----
 
 ## 🚀 Quick Deployment
 
